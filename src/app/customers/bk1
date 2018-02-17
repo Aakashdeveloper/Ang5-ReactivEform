@@ -1,0 +1,33 @@
+
+/*
+function ratingRange(c:AbstractControl):{[key:string]:boolean}|null{
+        if(c.value != undefined && (isNaN(c.value) || c.value< 1 || c.value>5)){
+            return{'range':true};
+        };
+        return null;
+    };
+*/
+/*
+function ratingRange(c:AbstractControl):{[key:string]:boolean}|null{
+        if(c.value != undefined && (isNaN(c.value) || c.value< 1 || c.value>5)){
+            return{'range':true};
+        };
+        return null;
+    };
+*/
+
+
+ /*this.customerForm = new FormGroup({
+            firstName: new FormControl(),
+            lastName: new FormControl(),
+            email: new FormControl()
+        })*/
+
+
+    /*populateTestData(): void{
+        this.customerForm.setValue({
+            firstName:'Aakash',
+            lastName:'Handa',
+            email:'ahanda205@gmail.com'
+        })
+    }*/
